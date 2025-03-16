@@ -10,3 +10,5 @@ Data Processing & Automation: Leveraging technology to streamline complex workfl
 Scalability & Performance Optimization: Ensuring applications are efficient and can handle growing user demand.
 I’m excited about the opportunity to contribute and learn from the talented team at Litigence, Inc. Feel free to explore my projects, and I look forward to growing as a developer!
 
+Here's a project I worked on years ago. It's a UNO Game made with python and it runs through the console.
+https://replit.com/@ROYALADEGUNLOYE/uno?v=1
